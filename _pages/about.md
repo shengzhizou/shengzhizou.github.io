@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-# Hello, I’m Shengzhi Zou
+## 😊 Hello, I’m Shengzhi Zou
 
 I am currently an M.Sc. student in Data Science at Nanyang Technological University (NTU), Singapore.
 
@@ -28,8 +28,13 @@ My current research explores topics including LLM-based urban intelligence, tool
   School of Architecture
 
 ## 💻 Skills
-Programming: Python
-Machine Learning: PyTorch, Hugging Face Transformers, Model Evaluation
-Large Language Models: Prompt Engineering, Supervised Fine-Tuning (SFT), LoRA, QLoRA, Tool Calling, Agent Frameworks
-Urban Engineering and Design: CAD, Sketchup, ArcGIS, PS, Unity, UE5
-Languages: Mandarin, English
+
+- **Programming**: Python
+- 
+- **Machine Learning**: PyTorch, Hugging Face Transformers, Model Evaluation
+- 
+- **Large Language Models**: Prompt Engineering, Supervised Fine-Tuning (SFT), LoRA, QLoRA, Tool Calling, Agent Frameworks
+- 
+- **Urban Engineering and Design**: AutoCAD, SketchUp, ArcGIS, Adobe Photoshop, Unity, Unreal Engine 5
+- 
+- **Languages**: Mandarin, English
