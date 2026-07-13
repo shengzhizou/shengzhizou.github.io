@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Zou Shengzhi"
+title                    : "Shengzhi Zou"
 title_separator          : "-"
-name                     : &name "Zou Shengzhi"
-description              : &description "Zou Shengzhi's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
+name                     : &name "Shengzhi Zou"
+description              : &description "Shengzhi Zou's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : "https://shengzhizou.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "shengzhizou/shengzhizou.github.io"
@@ -23,9 +23,9 @@ repository               : "shengzhizou/shengzhizou.github.io"
 author:
   # Biographic information
   avatar           : "zsz.png"
-  name             : "Zou Shengzhi"
+  name             : "Shengzhi Zou"
   pronouns         : "he/him"  
-  bio              : "Research interests: Large Language Models, Urban Computing, Geographic Intelligence, and AI Agents."
+  bio              : "Data Science Msc Student"
   location         : "Singapore"
   employer         : "Nanyang Technological University"
   uri              : # URL
