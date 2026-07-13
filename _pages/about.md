@@ -23,18 +23,14 @@ My current research explores topics including LLM-based urban intelligence, tool
   *Jul 2025 – Present*  
   College of Computing and Data Science (CCDS)
 
-- **B.Eng. in Urban Planning**, Harbin Institute of Technology, Shenzhen (HITSZ)
-  *Sep 2020 – Jun 2025*
+- **B.Eng. in Urban Planning**, Harbin Institute of Technology, Shenzhen (HITSZ)  
+  *Sep 2020 – Jun 2025*  
   School of Architecture
 
 ## 💻 Skills
 
 - **Programming**: Python
-- 
 - **Machine Learning**: PyTorch, Hugging Face Transformers, Model Evaluation
-- 
 - **Large Language Models**: Prompt Engineering, Supervised Fine-Tuning (SFT), LoRA, QLoRA, Tool Calling, Agent Frameworks
-- 
 - **Urban Engineering and Design**: AutoCAD, SketchUp, ArcGIS, Adobe Photoshop, Unity, Unreal Engine 5
-- 
 - **Languages**: Mandarin, English
